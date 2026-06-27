@@ -10,25 +10,25 @@ The goal of this project is to investigate:
 
 # Key Features Analyzed
 Numerical:
-Score
-Members
-Favorites
-Episodes
-Ranked
+Score,
+Members,
+Favorites,
+Episodes,
+Ranked,
 Released_Year
 
 Categorical:
-Type
-Rating
+Type,
+Rating,
 Source
 
 --These features were selected based on relevance to popularity, audience engagement, and production characteristics.
 
 # Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib / Seaborn
-Scikit‑Learn
-TensorFlow / PyTorch (planned)
+Python,
+Pandas,
+NumPy,
+Matplotlib / Seaborn,
+Scikit‑Learn,
+TensorFlow / PyTorch (planned),
 Power BI / Tableau (planned)
