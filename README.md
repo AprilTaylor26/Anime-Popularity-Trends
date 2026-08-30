@@ -1,5 +1,5 @@
 # Anime Popularity Trend — Data Analysis & Machine Learning Project
-This repository contains an ongoing research project analyzing anime popularity trends using the MyAnimeList (MAL) dataset. The project includes exploratory data analysis (EDA), data cleaning, preprocessing, baseline modeling, neural network development, scenario analysis, and dashboard visualizations.
+This repository analyzes anime popularity trends using the MyAnimeList (MAL) dataset. The project includes exploratory data analysis (EDA), data cleaning, preprocessing, baseline modeling, neural network development, scenario analysis, and dashboard visualizations.
 
 # Project Purpose
 The goal of this project is to investigate:
